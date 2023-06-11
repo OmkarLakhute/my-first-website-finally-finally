@@ -1,0 +1,18 @@
+How to go live on the internet 
+
+1.web hosting 
+    -how can  everyone access my website from the web
+    -first we have to put our website and all the data that it consists of on the web server which could be accessed though the internet
+
+    step1 - go to github.com and sign in
+          - click on plus arrow on top right to create a new repository
+          - name our repository html-portfolio and public and readme file add
+          - then add file
+          - imp for packaging information -- your home page should always be name index.html
+          - it is important you add only the contents of the portfolio folder and not the folder itself
+          - How to add is important select the files and folder using cursor and drag the selected to the uploading area
+          - this is very important if you do via using open button it will not take folders
+          - finally commit to finally add your files
+          - go to settings -->github pages -->change branch to main instead of none which contains our root folder
+          - above you will get message your site is live at url (this may take few refreshes)
+          - error message can occur a few times but don't worry refresh few times
